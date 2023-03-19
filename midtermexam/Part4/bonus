@@ -1,0 +1,3 @@
+Delete a product that its no longer available in the shop. As a database administrators, we need to remove the table using the DELETE command.  
+Solution using DELETE command:
+DELETE FROM product_table WHERE item_id = 1;

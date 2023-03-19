@@ -1,0 +1,3 @@
+
+Milktea shop ordering system has a table named "product table" in database which stores all the product offered by the website. A new item that needed to be inserted into the database. As a database administrator, we must use the INSERT command to insert the new product from the table.
+insert into product_table (item_name, item_description, item_price, item_status) VALUES ('banana', 'fsfcsdv', '50','Available' )

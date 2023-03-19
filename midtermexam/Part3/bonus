@@ -1,0 +1,3 @@
+Milktea shop ordering system has a table named "product table" in database which stores all the product offered by the website. One of the product drop its price. That is why  the data in the database needed to be modify. As a database administrator, we must use the UPDATE command to update the new product from the table.
+Solution 
+UPDATE product_table SET item_price = 60.00 WHERE item_id = 1;
